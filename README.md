@@ -1,5 +1,5 @@
 # Juego "Hundir la flota" en Python
-![imagen](./hundir-la-flota-juego-de-mesa.jpg)
+![imagen](./scr/hundir-la-flota-juego-de-mesa.jpg)
 ## Descripción del proyecto:  
 Para elaborar este proyecto hemos realizados dos archivos: uno para las funciones y otro principal.  
 ##### En `funciones` hay cuatro funciones:
